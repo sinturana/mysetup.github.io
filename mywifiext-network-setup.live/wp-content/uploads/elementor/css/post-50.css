@@ -1,0 +1,50 @@
+.elementor-50 .elementor-element.elementor-element-fee9896 {
+    margin-top: -70px;
+    margin-bottom: -220px;
+}
+
+.elementor-50 .elementor-element.elementor-element-b2fee5a .elementor-heading-title {
+    color: #FFFFFF;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button .elementor-align-icon-right {
+    margin-left: 13px;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button .elementor-align-icon-left {
+    margin-right: 13px;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button {
+    font-family: "Roboto Mono", Sans-serif;
+    font-size: 1.9rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #56297D;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: rgba(223, 98, 54, 0);
+    border-radius: 60px 60px 60px 60px;
+    padding: 22px 40px 22px 040px;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button:hover,
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button:focus {
+    color: #ffffff;
+    background-color: rgba(223, 98, 54, 0);
+    border-color: #ffffff;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button:hover svg,
+.elementor-50 .elementor-element.elementor-element-21d168b .elementor-button:focus svg {
+    fill: #ffffff;
+}
+
+.elementor-50 .elementor-element.elementor-element-21d168b>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
